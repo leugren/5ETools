@@ -23,23 +23,30 @@ DEVOWARE.encounterPlanner = (function () {
 	var humanVariantDefaultMods = {str: 0, dex: 0, con: 0, wis: 0, int: 0, cha: 0};
 	var halfElfDefaultMods = {str: 0, dex: 0, con: 0, wis: 0, int: 0, cha: 2};
 	var racialMods = {
+			aarakocra: {str: 0, dex: 2, con: 0, wis: 1, int: 0, cha: 0},
+			aasimar: {str: 0, dex: 0, con: 0, wis: 1, int: 0, cha: 2},
+			dragonborn: {str: 2, dex: 0, con: 0, wis: 0, int: 0, cha: 1},
 			dwarfHill: {str: 0, dex: 0, con: 2, wis: 1, int: 0, cha: 0},
 			dwarfMountain: {str: 2, dex: 0, con: 2, wis: 0, int: 0, cha: 0},
+			elfEladrin: {str: 0, dex: 2, con: 0, wis: 0, int: 1, cha: 0},
 			elfHigh: {str: 0, dex: 2, con: 0, wis: 0, int: 1, cha: 0},
 			elfWood: {str: 0, dex: 2, con: 0, wis: 1, int: 0, cha: 0},
 			elfDark: {str: 0, dex: 2, con: 0, wis: 0, int: 0, cha: 1},
+			genasiAir: {str: 0, dex: 1, con: 2, wis: 0, int: 0, cha: 0},
+			genasiEarth: {str: 1, dex: 0, con: 2, wis: 0, int: 0, cha: 0},
+			genasiFire: {str: 0, dex: 0, con: 2, wis: 0, int: 1, cha: 0},
+			genasiWater: {str: 0, dex: 0, con: 2, wis: 1, int: 0, cha: 0},
+			gnomeDeep: {str: 0, dex: 1, con: 0, wis: 0, int: 2, cha: 0},
+			gnomeForest: {str: 0, dex: 1, con: 0, wis: 0, int: 2, cha: 0},
+			gnomeRock: {str: 0, dex: 0, con: 1, wis: 0, int: 2, cha: 0},
+			goliath: {str: 2, dex: 0, con: 1, wis: 0, int: 0, cha: 0},
+			halfElf: halfElfDefaultMods,
+			halfOrc: {str: 2, dex: 0, con: 1, wis: 0, int: 0, cha: 0},
 			halflingLightfoot: {str: 0, dex: 2, con: 0, wis: 0, int: 0, cha: 1},
 			halflingStout: {str: 0, dex: 2, con: 1, wis: 0, int: 0, cha: 0},
 			human: {str: 1, dex: 1, con: 1, wis: 1, int: 1, cha: 1},
 			humanVariant: humanVariantDefaultMods,
-			dragonborn: {str: 2, dex: 0, con: 0, wis: 0, int: 0, cha: 1},
-			gnomeForest: {str: 0, dex: 1, con: 0, wis: 0, int: 2, cha: 0},
-			gnomeRock: {str: 0, dex: 0, con: 1, wis: 0, int: 2, cha: 0},
-			halfElf: halfElfDefaultMods,
-			halfOrc: {str: 2, dex: 0, con: 1, wis: 0, int: 0, cha: 0},
-			tiefling: {str: 0, dex: 0, con: 0, wis: 0, int: 1, cha: 2},
-			elfEladrin: {str: 0, dex: 2, con: 0, wis: 0, int: 1, cha: 0},
-			aasimar: {str: 0, dex: 0, con: 0, wis: 1, int: 0, cha: 2}
+			tiefling: {str: 0, dex: 0, con: 0, wis: 0, int: 1, cha: 2}
 	};
 	
 	var computeTotalCost = function () {
