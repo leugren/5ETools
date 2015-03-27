@@ -1,0 +1,11 @@
+1417314159412	Copy compilation unit
+1417314165871	Delete element
+1417314188977	Rename type 'MyResource'
+1417315959234	Delete elements
+1417316827701	Rename package 'org.devoware.encounterbuilder'
+1417316872371	Move compilation units
+1417317692606	Rename type 'Error'
+1417319723322	Rename local variable 'numMembers'
+1417319842571	Extract method 'parseChallengeRating'
+1417320404123	Rename local variable 'memberString'
+1417320833918	Rename type 'EncounterDifficulty'

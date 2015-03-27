@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Die.java&apos; to &apos;AttributeCostCalculator/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;encounterplanner&apos;&#x0D;&#x0A;- Destination element: &apos;AttributeCostCalculator/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;org.devoware.table.dice.Die.java&apos;" description="Copy compilation unit" destination="=AttributeCostCalculator/src&lt;" element1="/src&lt;org.devoware.table.dice{Die.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1422144774514" units="1" version="1.0"/>
+</session>

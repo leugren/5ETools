@@ -1,0 +1,437 @@
+Aarakocra	Humanoid (Aarakocra)	0.25
+Aboleth	Aberration	10
+Acolyte	Humanoid (Any Race)	0.25
+Angel (Deva)	Celestial	10
+Angel (Planetar)	Celestial	16
+Angel (Solar)	Celestial	21
+Animated Object (Animated Armor)	Construct	1
+Animated Object (Flying Sword)	Construct	0.25
+Animated Object (Rug of Smothering)	Construct	2
+Ankheg	Monstrosity	2
+Ape	Beast	0.5
+Archmage	Humanoid (Any Race)	12
+Assassin	Humanoid (Any Race)	8
+Awakened Shrub	Plant	0
+Awakened Tree	Plant	2
+Axe Beak	Beast	0.25
+Azer	Elemental	2
+Baboon	Beast	0
+Badger	Beast	0
+Bandit	Humanoid (Any Race)	0.125
+Bandit (Pirate)	Humanoid (Any Race)	0.125
+Bandit Captain	Humanoid (Any Race)	2
+Bandit Captain (Pirate Captain)	Humanoid (Any Race)	2
+Banshee	Undead	4
+Basilisk	Monstrosity	3
+Bat	Beast	0
+Behir	Monstrosity	11
+Beholder	Aberration	13
+Beholder (Death Tyrant)	Aberration	14
+Beholder (Spectator)	Aberration	3
+Berserker	Humanoid (Any Race)	2
+Black Bear	Beast	0.5
+Blight (Needle Blight)	Plant	0.25
+Blight (Twig Blight)	Plant	0.125
+Blight (Vine Blight)	Plant	0.5
+Blink Dog	Fey	0.25
+Blood Hawk	Beast	0.125
+Boar	Beast	0.25
+Brown Bear	Beast	1
+Bugbear	Humanoid (Goblinoid)	1
+Bugbear (Bugbear Chief)	Humanoid (Goblinoid)	3
+Bulette	Monstrosity	5
+Bullywug	Humanoid (Bullywug)	0.25
+Cambion	Fiend	5
+Camel	Beast	0.125
+Carrion Crawler	Monstrosity	2
+Cat	Beast	0
+Centaur	Monstrosity	2
+Chimera	Monstrosity	6
+Chuul	Aberration	4
+Cloaker	Aberration	8
+Cockatrice	Monstrosity	0.5
+Commoner	Humanoid (Any Race)	0
+Constrictor Snake	Beast	0.25
+Couatl	Celestial	4
+Crab	Beast	0
+Crawling Claw	Undead	0
+Crocodile	Beast	0.5
+Cult Fanatic	Humanoid (Any Race)	2
+Cultist	Humanoid (Any Race)	0.125
+Cyclops	Giant	6
+Darkmantle	Monstrosity	0.5
+Death Dog	Monstrosity	1
+Death Knight	Undead	17
+Deer	Beast	0
+Demilich	Undead	18
+Demon (Balor)	Fiend (Demon)	19
+Demon (Barlgura)	Fiend (Demon)	5
+Demon (Chasme)	Fiend (Demon)	6
+Demon (Dretch)	Fiend (Demon)	0.25
+Demon (Glabrezu)	Fiend (Demon)	9
+Demon (Goristro)	Fiend (Demon)	17
+Demon (Hezrou)	Fiend (Demon)	8
+Demon (Manes)	Fiend (Demon)	0.125
+Demon (Marilith)	Fiend (Demon)	16
+Demon (Nalfeshnee)	Fiend (Demon)	13
+Demon (Quasit)	Fiend (Demon)	1
+Demon (Shadow Demon)	Fiend (Demon)	4
+Demon (Vrock)	Fiend (Demon)	6
+Demon (Yochlol)	Fiend (Demon)	10
+Devil (Barbed Devil)	Fiend (Devil)	5
+Devil (Bearded Devil)	Fiend (Devil)	3
+Devil (Bone Devil)	Fiend (Devil)	9
+Devil (Chain Devil)	Fiend (Devil)	8
+Devil (Erinyes)	Fiend (Devil)	12
+Devil (Horned Devil)	Fiend (Devil)	11
+Devil (Ice Devil)	Fiend (Devil)	14
+Devil (Imp)	Fiend (Devil)	1
+Devil (Lemure)	Fiend (Devil)	0
+Devil (Pit Fiend)	Fiend (Devil)	20
+Devil (Spined Devil)	Fiend (Devil)	2
+Dinosaur (Allosaurus)	Beast	2
+Dinosaur (Ankylosaurus)	Beast	3
+Dinosaur (Plesiosaurus)	Beast	2
+Dinosaur (Pteranodon)	Beast	0.25
+Dinosaur (Triceratops)	Beast	5
+Dinosaur (Tyrannosaurus Rex)	Beast	8
+Dire Wolf	Beast	1
+Displacer Beast	Monstrosity	3
+Doppelganger	Monstrosity	3
+Dracolich (Adult Blue Dracolich)	Undead	17
+Draft Horse	Beast	0.25
+Dragon (Ancient Black Dragon)	Dragon	21
+Dragon (Adult Black Dragon)	Dragon	14
+Dragon (Young Black Dragon)	Dragon	7
+Dragon (Wyrmling Black Dragon)	Dragon	2
+Dragon (Ancient Blue Dragon)	Dragon	23
+Dragon (Adult Blue Dragon)	Dragon	16
+Dragon (Young Blue Dragon)	Dragon	9
+Dragon (Wyrmling Blue Dragon)	Dragon	3
+Dragon (Ancient Green Dragon)	Dragon	22
+Dragon (Adult Green Dragon)	Dragon	15
+Dragon (Young Green Dragon)	Dragon	8
+Dragon (Wyrmling Green Dragon)	Dragon	2
+Dragon (Ancient Red Dragon)	Dragon	24
+Dragon (Adult Red Dragon)	Dragon	17
+Dragon (Young Red Dragon)	Dragon	10
+Dragon (Wyrmling Red Dragon)	Dragon	4
+Dragon (Ancient White Dragon)	Dragon	20
+Dragon (Adult White Dragon)	Dragon	13
+Dragon (Young White Dragon)	Dragon	6
+Dragon (Wyrmling White Dragon)	Dragon	2
+Dragon (Ancient Brass Dragon)	Dragon	20
+Dragon (Adult Brass Dragon)	Dragon	13
+Dragon (Young Brass Dragon)	Dragon	6
+Dragon (Wyrmling Brass Dragon)	Dragon	1
+Dragon (Ancient Bronze Dragon)	Dragon	22
+Dragon (Adult Bronze Dragon)	Dragon	15
+Dragon (Young Bronze Dragon)	Dragon	8
+Dragon (Wyrmling Bronze Dragon)	Dragon	2
+Dragon (Ancient Copper Dragon)	Dragon	21
+Dragon (Adult Copper Dragon)	Dragon	14
+Dragon (Young Copper Dragon)	Dragon	7
+Dragon (Wyrmling Copper Dragon)	Dragon	1
+Dragon (Ancient Gold Dragon)	Dragon	24
+Dragon (Adult Gold Dragon)	Dragon	17
+Dragon (Young Gold Dragon)	Dragon	10
+Dragon (Wyrmling Gold Dragon)	Dragon	3
+Dragon (Ancient Silver Dragon)	Dragon	23
+Dragon (Adult Silver Dragon)	Dragon	16
+Dragon (Young Silver Dragon)	Dragon	9
+Dragon (Wyrmling Silver Dragon)	Dragon	2
+Dragon, Shadow (Young Red Shadow Dragon)	Dragon	13
+Dragon Turtle	Dragon	17
+Drider	Monstrosity	6
+Druid	Humanoid (Any Race)	2
+Dryad	Fey	1
+Duergar	Humanoid (Dwarf)	1
+Eagle	Beast	0
+Elemental (Air Elemental)	Elemental	5
+Elemental (Earth Elemental)	Elemental	5
+Elemental (Fire Elemental)	Elemental	5
+Elemental (Water Elemental)	Elemental	5
+Elephant	Beast	4
+Elk	Beast	0.25
+Elves: Drow (Drow Elite Warrior)	Humanoid (Elf)	5
+Elves: Drow (Drow Mage)	Humanoid (Elf)	7
+Elves: Drow (Drow Priestess of Lolth)	Humanoid (Elf)	8
+Elves: Drow (Drow)	Humanoid (Elf)	0.25
+Empyrean	Celestial	23
+Ettercap	Monstrosity	2
+Ettin	Giant	4
+Faerie Dragon (red, orange, or yellow)	Dragon	2
+Faerie Dragon (green, blue, indigo, or violet)	Dragon	2
+Flameskull	Undead	4
+Flumph	Aberration	0.125
+Flying Snake	Beast	0.125
+Fomorian	Giant	8
+Frog	Beast	0
+Fungi (Gas Spore)	Plant	0.5
+Fungi (Shrieker)	Plant	0
+Fungi (Violet Fungus)	Plant	0.125
+Galeb Duhr	Elemental	6
+Gargoyle	Elemental	2
+Genie (Dao)	Elemental	11
+Genie (Djinni)	Elemental	11
+Genie (Efreeti)	Elemental	11
+Genie (Marid)	Elemental	11
+Ghost	Undead	4
+Ghoul	Undead	1
+Ghoul (Ghast)	Undead	2
+Giant (Cloud Giant)	Giant	9
+Giant (Fire Giant)	Giant	9
+Giant (Frost Giant)	Giant	8
+Giant (Hill Giant)	Giant	5
+Giant (Stone Giant)	Giant	7
+Giant (Storm Giant)	Giant	13
+Giant Ape	Beast	7
+Giant Badger	Beast	0.25
+Giant Bat	Beast	0.25
+Giant Boar	Beast	2
+Giant Centipede	Beast	0.25
+Giant Constrictor Snake	Beast	2
+Giant Crab	Beast	0.125
+Giant Crocodile	Beast	5
+Giant Eagle	Beast	1
+Giant Elk	Beast	2
+Giant Fire Beetle	Beast	0
+Giant Frog	Beast	0.25
+Giant Goat	Beast	0.5
+Giant Hyena	Beast	1
+Giant Lizard	Beast	0.25
+Giant Octopus	Beast	1
+Giant Owl	Beast	0.25
+Giant Poisonous Snake	Beast	0.25
+Giant Rat	Beast	0.125
+Giant Rat (Diseased Giant Rat)	Beast	0.125
+Giant Scorpion	Beast	3
+Giant Sea Horse	Beast	0.5
+Giant Shark	Beast	5
+Giant Spider	Beast	1
+Giant Toad	Beast	1
+Giant Vulture	Beast	1
+Giant Wasp	Beast	0.5
+Giant Weasel	Beast	0.125
+Giant Wolf Spider	Beast	0.25
+Gibbering Mouther	Aberration	2
+Gith (Githyanki Knight)	Humanoid (Gith)	8
+Gith (Githyanki Warrior)	Humanoid (Gith)	3
+Gith (Githzerai Monk)	Humanoid (Gith)	2
+Gith (Githzerai Zerth)	Humanoid (Gith)	6
+Gladiator	Humanoid (Any Race)	5
+Gnoll (Gnoll Fang of Yeenoghu)	Humanoid (Gnoll)	4
+Gnoll (Gnoll Pack Lord)	Humanoid (Gnoll)	2
+Gnoll	Humanoid (Gnoll)	0.5
+Gnome, Deep (Svirfneblin)	Humanoid (Gnome)	0.5
+Goat	Beast	0
+Goblin	Humanoid (Goblinoid)	0.25
+Goblin (Goblin Boss)	Humanoid (Goblinoid)	1
+Golem (Clay)	Construct	9
+Golem (Flesh)	Construct	5
+Golem (Iron)	Construct	16
+Golem (Stone)	Construct	10
+Gorgon	Construct	5
+Grell	Aberration	3
+Grick	Monstrosity	2
+Grick (Grick Alpha)	Monstrosity	7
+Griffon	Monstrosity	2
+Grimlock	Humanoid (Grimlock)	0.25
+Guard	Humanoid (Any Race)	0.125
+Hag (Green Hag)	Fey	3
+Hag (Night Hag)	Fey	5
+Hag (Sea Hag)	Fey	2
+Harpy	Monstrosity	1
+Hawk	Beast	0
+Hell Hound	Fiend	3
+Helmed Horror	Construct	4
+Hippogriff	Monstrosity	1
+Hobgoblin	Humanoid (Goblinoid)	0.5
+Hobgoblin (Hobgoblin Captain)	Humanoid (Goblinoid)	3
+Hobgoblin (Hobgoblin Warlord)	Humanoid (Goblinoid)	6
+Homunculus	Construct	0
+Hook Horror	Monstrosity	3
+Hunter Shark	Beast	2
+Hydra	Monstrosity	8
+Hyena	Beast	0
+Intellect Devourer	Aberration	2
+Invisible Stalker	Elemental	6
+Jackal	Beast	0
+Jackalwere	Humanoid (Shapechanger)	0.5
+Kenku	Humanoid (Kenku)	0.25
+Killer Whale	Beast	3
+Knight	Humanoid (Any Race)	3
+Kobold	Humanoid (Kobold)	0.125
+Kobold (Winged Kobold)	Humanoid (Kobold)	0.25
+Kraken	Monstrosity	23
+Kuo-toa	Humanoid (Kuo-toa)	0.25
+Kuo-toa (Kuo-toa Archpriest)	Humanoid (Kuo-toa)	6
+Kuo-toa (Kuo-toa Whip)	Humanoid (Kuo-toa)	1
+Lamia	Monstrosity	4
+Lich	Undead	21
+Lion	Beast	1
+Lizard	Beast	0
+Lizardfolk	Humanoid (Lizardfolk)	0.5
+Lizardfolk (Lizard King/Queen)	Humanoid (Lizardfolk)	4
+Lizardfolk (Lizardfolk Shaman)	Humanoid (Lizardfolk)	2
+Lycanthrope (Werebear)	Humanoid (Shapechanger)	5
+Lycanthrope (Wereboar)	Humanoid (Shapechanger)	4
+Lycanthrope (Wererat)	Humanoid (Shapechanger)	2
+Lycanthrope (Weretiger)	Humanoid (Shapechanger)	4
+Lycanthrope (Werewolf)	Humanoid (Shapechanger)	3
+Mage	Humanoid (Any Race)	6
+Magmin	Elemental	0.5
+Mammoth	Beast	6
+Manticore	Monstrosity	3
+Mastiff	Beast	0.125
+Medusa	Monstrosity	6
+Mephit (Dust Mephit)	Elemental	0.5
+Mephit (Ice Mephit)	Elemental	0.5
+Mephit (Magma Mephit)	Elemental	0.5
+Mephit (Mud Mephit)	Elemental	0.25
+Mephit (Smoke Mephit)	Elemental	0.25
+Mephit (Steam Mephit)	Elemental	0.25
+Merfolk	Humanoid (Merfolk)	0.125
+Merrow	Monstrosity	2
+Mimic	Monstrosity	2
+Mind Flayer	Aberration	7
+Minotaur	Monstrosity	3
+Modron (Duodrone)	Construct	0.25
+Modron (Monodrone)	Construct	0.125
+Modron (Pentadrone)	Construct	2
+Modron (Quadrone)	Construct	1
+Modron (Tridrone)	Construct	0.5
+Mule	Beast	0.125
+Mummy	Undead	3
+Mummy (Mummy Lord)	Undead	15
+Myconid (Myconid Adult)	Plant	0.5
+Myconid (Myconid Sovereign)	Plant	2
+Myconid (Myconid Sprout)	Plant	0
+Myconid (Quaggoth Spore Servant)	Plant	1
+Naga (Bone Naga)	Monstrosity	4
+Naga (Guardian Naga)	Monstrosity	8
+Naga (Spirit Naga)	Monstrosity	10
+Nightmare	Fiend	3
+Noble	Humanoid (Any Race)	0.125
+Nothic	Aberration	2
+Octopus	Beast	0
+Ogre	Giant	2
+Ogre (Half-Ogre (Ogrillon))	Giant	1
+Oni	Giant	7
+Ooze (Black Pudding)	Ooze	4
+Ooze (Gelatinous Cube)	Ooze	2
+Ooze (Gray Ooze)	Ooze	0.5
+Ooze (Ochre Jelly)	Ooze	2
+Orc	Humanoid (Orc)	0.5
+Orc (Orc Eye of Gruumsh)	Humanoid (Orc)	2
+Orc (Orc War Chief)	Humanoid (Orc)	4
+Orc (Orog)	Humanoid (Orc)	2
+Otyugh	Aberration	5
+Owl	Beast	0
+Owlbear	Monstrosity	3
+Panther	Beast	0.25
+Pegasus	Celestial	2
+Peryton	Monstrosity	2
+Phase Spider	Monstrosity	3
+Piercer	Monstrosity	0.5
+Pixie	Fey	0.25
+Poisonous Snake	Beast	0.125
+Polar Bear	Beast	2
+Polar Bear (Cave Bear)	Beast	2
+Pony	Beast	0.125
+Priest	Humanoid (Any Race)	2
+Pseudodragon	Dragon	0.25
+Purple Worm	Monstrosity	15
+Quaggoth	Humanoid (Quaggoth)	2
+Quipper	Beast	0
+Rakshasa	Fiend	13
+Rat	Beast	0
+Raven	Beast	0
+Reef Shark	Beast	0.5
+Remorhaz	Monstrosity	11
+Remorhaz (Young Remorhaz)	Monstrosity	5
+Revenant	Undead	5
+Rhinoceros	Beast	2
+Riding Horse	Beast	0.25
+Roc	Monstrosity	11
+Roper	Monstrosity	5
+Rust Monster	Monstrosity	0.5
+Saber-Toothed Tiger	Beast	2
+Sahuagin	Humanoid (Sahuagin)	0.5
+Sahuagin (Sahuagin Baron)	Humanoid (Sahuagin)	5
+Sahuagin (Sahuagin Priestess)	Humanoid (Sahuagin)	2
+Salamander	Elemental	5
+Salamander (Fire Snake)	Elemental	1
+Satyr	Fey	0.5
+Scarecrow	Construct	1
+Scorpion	Beast	0
+Scout	Humanoid (Any Race)	0.5
+Sea Horse	Beast	0
+Shadow	Undead	0.5
+Shambling Mound	Plant	5
+Shield Guardian	Construct	7
+Skeleton	Undead	0.25
+Skeleton (Minotaur Skeleton)	Undead	2
+Skeleton (Warhorse Skeleton)	Undead	0.5
+Slaad (Blue Slaad)	Aberration	7
+Slaad (Death Slaad)	Aberration	10
+Slaad (Gray Slaad)	Aberration	9
+Slaad (Green Slaad)	Aberration	8
+Slaad (Red Slaad)	Aberration	5
+Slaad (Slaad Tadpole)	Aberration	0.125
+Specter	Undead	1
+Specter (Poltergeist)	Undead	2
+Sphinx (Androsphinx)	Monstrosity	17
+Sphinx (Gynosphinx)	Monstrosity	11
+Spider	Beast	0
+Sprite	Fey	0.25
+Spy	Humanoid (Any Race)	1
+Stirge	Beast	0.125
+Succubus/Incubus	Fiend	4
+Swarm of Bats	Beast	0.25
+Swarm of Insects	Beast	0.5
+Swarm of Insects (Swarm of Beetles)	Beast	0.5
+Swarm of Insects (Swarm of Centipedes)	Beast	0.5
+Swarm of Insects (Swarm of Spiders)	Beast	0.5
+Swarm of Insects (Swarm of Wasps)	Beast	0.5
+Swarm of Poisonous Snakes	Beast	2
+Swarm of Quippers	Beast	1
+Swarm of Rats	Beast	0.25
+Swarm of Ravens	Beast	0.25
+Tarrasque	Monstrosity	30
+Thri-Kreen	Humanoid (Thri-Kreen)	1
+Thug	Humanoid (Any Race)	0.5
+Tiger	Beast	1
+Treant	Plant	9
+Tribal Warrior	Humanoid (Any Race)	0.125
+Troglodyte	Humanoid (Troglodyte)	0.25
+Troll	Giant	5
+Umber Hulk	Monstrosity	5
+Unicorn	Celestial	5
+Vampire	Undead	13
+Vampire (Vampire Spawn)	Undead	5
+Veteran	Humanoid (Any Race)	3
+Vulture	Beast	0
+Warhorse	Beast	0.5
+Water Weird	Elemental	3
+Weasel	Beast	0
+Wight	Undead	3
+Will-o'-Wisp	Undead	2
+Winter Wolf	Monstrosity	3
+Wolf	Beast	0.25
+Worg	Monstrosity	0.5
+Wraith	Undead	5
+Wyvern	Dragon	6
+Xorn	Elemental	5
+Yeti	Monstrosity	3
+Yeti (Abominable Yeti)	Monstrosity	9
+Yuan-ti (Yuan-ti Abomination)	Monstrosity (Shapechanger, Yuan-ti)	7
+Yuan-ti (Yuan-ti Malison)	Monstrosity (Shapechanger, Yuan-ti)	3
+Yuan-ti (Yuan-ti Pureblood)	Humanoid (Yuan-ti)	1
+Yugoloth (Arcanaloth)	Fiend (Yugoloth)	12
+Yugoloth (Mezzoloth)	Fiend (Yugoloth)	5
+Yugoloth (Nycaloth)	Fiend (Yugoloth)	9
+Yugoloth (Ultroloth)	Fiend (Yugoloth)	13
+Zombie	Undead	0.25
+Zombie (Beholder Zombie)	Undead	5
+Zombie (Ogre Zombie)	Undead	2

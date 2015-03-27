@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;HitPointCalculator/src/org.devoware.hitdice&apos;&#x0D;&#x0A;- Original project: &apos;HitPointCalculator&apos;&#x0D;&#x0A;- Destination element: &apos;HitPointCalculator/src/org.devoware.hitdice&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     CharacterClass.java&#x0D;&#x0A;     HitDie.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;org.devoware.hitdice" element1="/src&lt;{CharacterClass.java" element2="/src&lt;{HitDie.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" log="/src&lt;&#x09;/src&lt;org.devoware.hitdice" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1421720062737" units="2" version="1.0"/>
+</session>

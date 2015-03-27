@@ -1,0 +1,61 @@
+1418564622358	Copy compilation unit
+1418564686875	Copy compilation unit
+1418564756971	Copy file
+1418564823983	Copy file
+1418565087136	Copy file
+1418565235452	Copy file
+1418567402606	Rename type 'Tables'
+1418572150549	Rename method 'withRollMultipleAndIgnore'
+1418575099581	Copy compilation unit
+1418575179994	Copy file
+1418575289697	Copy file
+1418575359452	Copy compilation unit
+1418575652876	Copy file
+1418575690558	Copy file
+1418579984789	Copy compilation unit
+1418580170490	Copy file
+1418580490910	Copy file
+1418581403064	Move compilation unit
+1418584191629	Copy compilation unit
+1418584264896	Copy file
+1418584322419	Copy file
+1418584331600	Delete element
+1418584345016	Copy file
+1418586519769	Copy compilation unit
+1418586541384	Copy compilation unit
+1418587088339	Copy compilation unit
+1418587126417	Rename local variable 'building'
+1418587154120	Copy compilation unit
+1418587182162	Rename local variable 'building'
+1418587196489	Copy compilation unit
+1418587230523	Rename local variable 'building'
+1418587253011	Copy file
+1418587300573	Copy file
+1418587340253	Copy file
+1418587382406	Copy file
+1418587410669	Copy file
+1418587439627	Copy file
+1418598046886	Copy compilation unit
+1418599790433	Copy compilation unit
+1418599964764	Copy compilation unit
+1418600004825	Rename local variable 'building'
+1418600037458	Copy file
+1418600083932	Copy file
+1418727755044	Rename type 'Backgrounds'
+1418729594247	Rename type 'StringSourceMetadata'
+1418729689006	Rename type 'StringSources'
+1418729727142	Rename type 'StringSourceMetadata'
+1418731202469	Encapsulate field 'metadata'
+1418731938877	Move method
+1418732593744	Copy compilation unit
+1418734803216	Rename method 'newValueSet'
+1418737340505	Move fields
+1418754412838	Rename field 'set'
+1418759520849	Extract method 'printPersonality'
+1418760382938	Copy compilation unit
+1418761929797	Copy file
+1418767626383	Copy file
+1418767640800	Copy file
+1418767647775	Delete element
+1418767668923	Copy file
+1419082408184	Copy packages

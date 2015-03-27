@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="css/jquery-ui.min.css">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <h2>Advanced Weather Generator</h2>
+  
+        <form id="form-compute-stats">
+         <div class="input-field">       
+            <label>Terrain</label>
+            <select id="terrain">
+                <option value="1">Broken Land</option>
+                <option value="2">Desert</option>
+                <option value="3">Forest</option>
+                <option value="4" selected>Grassland (or clear)</option>
+                <option value="5">Hills</option>
+                <option value="6">Jungle</option>
+                <option value="7">Mountains</option>
+                <option value="8">Swamp</option>
+            </select>
+        </div>
+
+         <div class="input-field">       
+            <label>Terrain Location</label>
+            <select id="terrainLocation">
+                <option value="1" selected>Inland</option>
+                <option value="2">Coastal</option>
+            </select>
+        </div>
+
+         <div class="input-field">       
+            <label>Latitude</label>
+            <input id="latitude">
+        </div>
+        
+         <div class="input-field">       
+            <label>Month</label>
+            <select id="month">
+                <option value="1" selected>January (Hammer)</option>
+                <option value="2">February (Alturiak)</option>
+                <option value="3">March (Ches)</option>
+                <option value="4">April (Tarsakh)</option>
+                <option value="5">May (Mirtul)</option>
+                <option value="6">June (Kythorn)</option>
+                <option value="7">July (Flamerule)</option>
+                <option value="8">August (Eleasias)</option>
+                <option value="9">September (Eleint)</option>
+                <option value="10">October (Marpenoth)</option>
+                <option value="11">November (Uktar)</option>
+                <option value="12">December (Nightal)</option>
+            </select>
+        </div>
+
+        
+        <button id="stats-button">Generate Weather</button>
+        <div id="stats"></div>
+        </form>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/jquery-ui.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/advanced-weather-generator.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,17 @@
+1419792659673	Rename type 'RandomBoundedInt'
+1419809511342	Rename type 'Precipitation'
+1419820288131	Rename type 'PrecipitationAndWind'
+1419822400318	Extract constant '_2D20'
+1419825896922	Rename field 'CATEGORIES'
+1419826324231	Rename method 'asOrdinal'
+1419827796427	Rename type 'Weather'
+1419827874551	Copy compilation unit
+1419828138258	Copy compilation unit
+1419828306418	Copy file
+1419828851481	Delete element
+1419829073733	Copy file
+1419829898339	Copy folder
+1419829935165	Delete element
+1419829946549	Copy files
+1419829953683	Delete element
+1419861603481	Extract constant '_6D10'

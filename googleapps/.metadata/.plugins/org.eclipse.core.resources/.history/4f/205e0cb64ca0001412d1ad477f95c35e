@@ -1,0 +1,15 @@
+package org.devoware.hitdice;
+
+public enum CharacterClass {
+	MONK(HitDie.D8);
+    
+	private final HitDie hitDie;
+	
+	private CharacterClass(HitDie hitDie) {
+		this.hitDie = hitDie;
+	}
+	
+	public HitDie getHitDie () {
+		return this.hitDie;
+	}
+}

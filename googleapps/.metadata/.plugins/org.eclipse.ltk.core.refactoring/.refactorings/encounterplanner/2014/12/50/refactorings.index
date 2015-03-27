@@ -1,0 +1,36 @@
+1417933331110	Copy package
+1417933356904	Copy package
+1417933390388	Move compilation unit
+1417940462547	Rename type 'EncounterPlannerResource'
+1417940549209	Rename resource 'main.js'
+1417940572894	Rename resource 'index.html'
+1417940626848	Copy file
+1417940833931	Copy file
+1417940855086	Copy file
+1417941796144	Copy compilation unit
+1417970999519	Rename type 'NestedValue'
+1417971041021	Rename method 'newNestedValue'
+1417971107758	Rename type 'ValueSource'
+1417971201480	Copy compilation unit
+1417972124499	Rename method 'rollMutiple'
+1417972338514	Delete elements
+1417975022878	Rename type 'NamedValueRangeMap'
+1417975786572	Rename type 'RandomValue'
+1417975851302	Rename type 'RandomStringValue'
+1417975895314	Rename field 'rnd'
+1417975937878	Rename method 'newRandomValue'
+1417976048790	Rename type 'RandomizableStringValue'
+1417976108859	Rename type 'NamedStringSource'
+1417976251938	Rename type 'StringSourceDecorator'
+1417977236035	Extract method 'generateValue'
+1418417440728	Rename local variable 'index'
+1418419446130	Copy compilation unit
+1418419680549	Copy file
+1418419695744	Copy file
+1418419718203	Copy file
+1418419728517	Delete element
+1418420333327	Rename method 'withFlawsAndSecrets'
+1418420350297	Rename local variable 'flawsAndSecrets'
+1418420364214	Rename field 'flawsAndSecrets'
+1418420388093	Rename field 'flawsAndSecrets'
+1418420419355	Rename method 'getFlawAndSecrets'

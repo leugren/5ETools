@@ -1,0 +1,12 @@
+package org.devoware.hitdice;
+
+import java.util.List;
+
+public class PlayerCharacter {
+	private List<CharacterClass> levels;
+	
+	public static Builder newPlayerCharacter () {
+		return new Builder();
+	}
+
+}

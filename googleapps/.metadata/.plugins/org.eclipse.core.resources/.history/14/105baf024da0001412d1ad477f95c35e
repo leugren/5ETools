@@ -1,0 +1,15 @@
+package org.devoware.hitdice;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		PlayerCharacter pc = PlayerCharacter.newPlayerCharacter()
+				.withConstitution(17)
+				.withLevels(CharacterClass.PALADIN, 4)
+				.build();
+		
+		System.out.println(pc.getHitPoints());
+		    
+	}
+
+}

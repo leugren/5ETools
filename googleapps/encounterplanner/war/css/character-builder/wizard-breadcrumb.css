@@ -1,0 +1,38 @@
+.breadcrumb {
+	margin-bottom: 15px;
+}
+
+.breadcrumb .block-title {
+	height: 26px;
+	line-height: 26px;
+	background-color:#c13100;
+	font-size: 1.0rem;
+    font-family: 'Open Sans',sans-serif;	
+	color: #fff;
+}
+
+.breadcrumb .block-title span {
+	background: url("/css/images/bg-header-arrow.png") left no-repeat;
+	display: block;
+    overflow: hidden;
+    white-space: nowrap;	
+}
+
+.breadcrumb .block-title div {
+	background: url("/css/images/bg-breadcrumb-arrow.png") right no-repeat;
+	display: inline-block;
+	padding: 0 18px 0 5px;
+	color: orange;
+}
+
+.breadcrumb .block-title div.first {
+	padding: 0 25px;
+}
+
+.breadcrumb .block-title div.current {
+	color: #fff;
+}
+
+.breadcrumb .block-title div.last {
+	background: none;
+}

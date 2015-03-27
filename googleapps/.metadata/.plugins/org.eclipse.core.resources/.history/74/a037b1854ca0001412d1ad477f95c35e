@@ -1,0 +1,77 @@
+package org.devoware.hitdice;
+
+import static com.google.common.base.Preconditions.checkArgument;
+import static com.google.common.base.Preconditions.checkNotNull;
+
+import java.util.List;
+
+import com.google.common.collect.ImmutableList;
+import com.google.common.collect.Lists;
+
+public class PlayerCharacter {
+	private final List<CharacterClass> levels;
+	private final int hitPoints;
+	private final int constitution;
+	private final int hitPointModifier;
+	
+	public static Builder newPlayerCharacter () {
+		return new Builder();
+	}
+	
+	private PlayerCharacter (Builder builder) {
+		this.levels = ImmutableList.copyOf(builder.levels);
+		this.constitution = builder.constitution;
+		this.hitPointModifier = builder.hitPointModifier;
+		
+		int modifier = (this.constitution - 10) / 2;
+		modifier += this.hitPointModifier;
+		int hitPoints = 0;
+		boolean firstLevel = true;
+		for (CharacterClass level : this.levels) {
+			if (firstLevel) {
+				hitPoints += level.getHitDie().getMax();
+				firstLevel = false;
+			} else {
+				hitPoints += level.getHitDie().getAverage();
+			}
+		}
+		this.hitPoints = hitPoints;
+	}
+	
+	public int getHitPoints () {
+	    return this.hitPoints;	
+	}
+
+	public static class Builder {
+		private List<CharacterClass> levels = Lists.newArrayList();
+		private Integer constitution;
+		private int hitPointModifier = 0;
+		
+		public Builder withConstitution (int constitution) {
+			checkArgument(constitution >= 8 && constitution <= 20);
+			this.constitution = constitution;
+			return this;
+		}
+		
+		public Builder hitPointModifier (int hitPointModifier) {
+			this.hitPointModifier = hitPointModifier;
+			return this;
+		}
+		
+		public Builder withLevels (CharacterClass characterClass, int levels) {
+			checkNotNull(characterClass);
+			checkArgument(levels > 0);
+			checkArgument(this.levels.size() + levels <= 20);
+			for (int i = 0; i < levels; i++) {
+				this.levels.add(characterClass);
+			}
+			return this;
+		}
+		
+		public PlayerCharacter build () {
+			checkArgument(this.levels.size() > 0);
+			checkNotNull(this.constitution);
+			return new PlayerCharacter(this);
+		}
+	}
+}

@@ -1,0 +1,17 @@
+1417885241720	Delete element
+1417885247604	Delete element
+1417887401305	Rename package 'org.devoware.table.model'
+1417888010671	Rename method 'withEntry'
+1417888022061	Rename method 'withEntry'
+1417888032705	Rename method 'withEntry'
+1417888046581	Rename method 'withEntry'
+1417894210266	Rename type 'Randomizer'
+1417895325358	Rename type 'Table'
+1417895346346	Rename method 'newTable'
+1417895980136	Extract constant 'DEFAULT_SEPARATOR'
+1417897141970	Delete element
+1417897304855	Copy compilation unit
+1417898199273	Delete element
+1417898217059	Copy compilation unit
+1417898328852	Copy compilation unit
+1417900904712	Copy compilation unit

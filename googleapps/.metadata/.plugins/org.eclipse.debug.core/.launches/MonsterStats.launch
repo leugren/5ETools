@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/encounterplanner/src/org/devoware/encounterplanner/monstercr/MonsterStats.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.devoware.encounterplanner.monstercr.MonsterStats"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="encounterplanner"/>
+</launchConfiguration>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <h2>PC Personality Generator</h2>
+  
+        <form id="form-compute-stats">
+         <div class="input-field">       
+            <label>Background</label>
+            <select id="background">
+                <option value="0" selected>Random</option>
+                <option value="1">Acolyte</option>
+                <option value="2">Charlatan</option>
+                <option value="3">Criminal</option>
+                <option value="4">Entertainer</option>
+                <option value="5">Folk Hero</option>
+                <option value="6">Guild Artisan</option>
+                <option value="7">Hermit</option>
+                <option value="8">Noble</option>
+                <option value="9">Outlander</option>
+                <option value="10">Sage</option>
+                <option value="11">Sailor</option>
+                <option value="12">Soldier</option>
+                <option value="13">Urchin</option>
+                <option value="-1">Surprise me! (traits,flaws, bonds, and ideals will be drawn randomly from the pool of all backgrounds)</option>
+            </select>
+        </div>
+         <div class="input-field">       
+            <label>Excluded Ideal Types<span class="example">The following ideal types should be excluded when generating the PC's ideal</span></label>
+            <table style="width: 300px; margin-top: 10px">
+                <tr>
+                    <td><input type="checkbox" id="good" value="good"> Good</td>
+                    <td><input type="checkbox" id="evil" value="evil"> Evil</td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" id="lawful" value="lawful"> Lawful</td>
+                    <td><input type="checkbox" id="chaotic" value="chaotic"> Chaotic</td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" id="neutral" value="neutral"> Neutral</td>
+                    <td>&nbsp;</td>
+                </tr>
+            </table>
+        </div>
+        <button id="stats-button">Generate Personality</button>
+        <div id="stats"></div>
+        </form>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/pc-personality-generator.js"></script>
+
+    </body>
+</html>

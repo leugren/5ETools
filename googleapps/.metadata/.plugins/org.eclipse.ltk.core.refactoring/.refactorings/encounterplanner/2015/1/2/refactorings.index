@@ -1,0 +1,21 @@
+1420741481973	Rename local variable 'armorClass'
+1420741535592	Rename local variable 'hitPoints'
+1420741574146	Rename local variable 'attackBonus'
+1420741609790	Rename local variable 'damagePerRound'
+1420746690410	Extract method 'getAverageChallengeRating'
+1420747158253	Copy compilation unit
+1420748611134	Rename type 'MonsterCrCalculatorResource'
+1420748623167	Move method
+1420749102033	Rename type 'CalculationType'
+1420750615236	Copy file
+1420750861507	Rename type 'DefenseType'
+1420750888119	Rename local variable 'defenseType'
+1420750903459	Rename local variable 'defenseValue'
+1420750947387	Rename local variable 'defenseValue'
+1420750960594	Rename local variable 'defenseType'
+1420751248101	Copy file
+1420773032488	Copy compilation unit
+1420773206699	Copy file
+1420773462685	Copy file
+1420773498499	Rename type 'MonsterGeneratorResource'
+1420773732921	Rename type 'MonsterStatsResource'
